@@ -1,0 +1,32 @@
+[
+  {
+      "name": "project_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "project_name",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "start_date",
+      "type": "DATE",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "end_date",
+      "type": "DATE",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "project_manager_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "budget",
+      "type": "FLOAT",
+      "mode": "REQUIRED"
+  }
+]

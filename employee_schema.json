@@ -1,0 +1,32 @@
+[
+  {
+      "name": "employee_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "employee_name",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "job_title",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "hire_date",
+      "type": "DATE",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "department_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "location",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  }
+]

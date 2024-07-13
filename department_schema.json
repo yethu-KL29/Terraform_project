@@ -1,0 +1,22 @@
+[
+  {
+      "name": "department_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "department_name",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "location",
+      "type": "STRING",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "head_of_department_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  }
+]

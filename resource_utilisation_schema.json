@@ -1,0 +1,42 @@
+[
+  {
+      "name": "resource_utilization_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "time_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "employee_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "project_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "department_id",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "utilization_hours",
+      "type": "FLOAT",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "utilization_percentage",
+      "type": "FLOAT",
+      "mode": "REQUIRED"
+  },
+  {
+      "name": "active",
+      "type": "BOOLEAN",
+      "mode": "REQUIRED"
+  }
+]
